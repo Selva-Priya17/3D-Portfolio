@@ -1,0 +1,6 @@
+<svg viewBox="0 0 300 240" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 100,20 h 60 a 70,70 0 0,1 70,70 v 0 a 70,70 0 0,1 -70,70 h -20 v 40 h -40 z" fill="#133170"/>
+  <circle cx="160" cy="90" r="25" fill="#ffffff" />
+  <text x="35" y="215" font-family="Arial, sans-serif" font-weight="900" font-size="36" fill="#133170" letter-spacing="-1">percept<tspan fill="#ce1126">i</tspan>ve</text>
+  <text x="80" y="232" font-family="Arial, sans-serif" font-weight="bold" font-size="12" fill="#ce1126">SOFTWARE SOLUTIONS</text>
+</svg>
